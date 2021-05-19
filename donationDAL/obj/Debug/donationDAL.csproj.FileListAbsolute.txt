@@ -1,0 +1,5 @@
+C:\Users\יהודית סופר\Desktop\פרוייקט\donation\donationDAL\bin\Debug\donationDAL.dll
+C:\Users\יהודית סופר\Desktop\פרוייקט\donation\donationDAL\bin\Debug\donationDAL.pdb
+C:\Users\יהודית סופר\Desktop\פרוייקט\donation\donationDAL\obj\Debug\donationDAL.csproj.CoreCompileInputs.cache
+C:\Users\יהודית סופר\Desktop\פרוייקט\donation\donationDAL\obj\Debug\donationDAL.dll
+C:\Users\יהודית סופר\Desktop\פרוייקט\donation\donationDAL\obj\Debug\donationDAL.pdb

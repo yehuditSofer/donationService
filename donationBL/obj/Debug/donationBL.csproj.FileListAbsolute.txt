@@ -1,0 +1,5 @@
+C:\Users\יהודית סופר\Desktop\פרוייקט\donation\donationBL\bin\Debug\donationBL.dll
+C:\Users\יהודית סופר\Desktop\פרוייקט\donation\donationBL\bin\Debug\donationBL.pdb
+C:\Users\יהודית סופר\Desktop\פרוייקט\donation\donationBL\obj\Debug\donationBL.csproj.CoreCompileInputs.cache
+C:\Users\יהודית סופר\Desktop\פרוייקט\donation\donationBL\obj\Debug\donationBL.dll
+C:\Users\יהודית סופר\Desktop\פרוייקט\donation\donationBL\obj\Debug\donationBL.pdb
